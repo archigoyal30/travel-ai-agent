@@ -58,8 +58,8 @@ Whether you're chasing sunsets in Santorini or hiking through the Andes, **Trave
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/your-username/travel-planner-ai.git
-cd travel-planner-ai
+git clone https://github.com/your-username/travel-ai-agent.git
+cd travel-ai-agent
 ```
 
 2. **Install dependencies**
